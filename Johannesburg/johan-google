@@ -1,0 +1,12 @@
+traceroute to www.google.com (172.217.169.36), 30 hops max, 60 byte packets
+ 1  gi0-0-0-17.20.agr11.jnb01.atlas.cogentco.com (206.185.255.1)  0.916 ms  0.809 ms
+ 2  be2355.ccr51.jnb01.atlas.cogentco.com (154.54.43.37)  0.728 ms  0.722 ms
+ 3  be2389.ccr22.lon01.atlas.cogentco.com (154.54.80.201)  194.235 ms  194.250 ms
+ 4  be2869.ccr42.lon13.atlas.cogentco.com (154.54.57.161)  194.422 ms  194.244 ms
+ 5  be2350.rcr21.b023101-0.lon13.atlas.cogentco.com (130.117.51.138)  193.687 ms  194.224 ms
+ 6  ae39-xcr1.ltw.cw.net (195.2.26.25)  198.769 ms  196.830 ms
+ 7  ae8-xcr1.lnt.cw.net (195.2.24.130)  197.478 ms  197.392 ms
+ 8  * google-gw1.lnt.cw.net (195.2.5.10)  197.646 ms
+ 9  74.125.242.65 (74.125.242.65)  206.016 ms 74.125.242.97 (74.125.242.97)  197.492 ms
+10  172.253.66.89 (172.253.66.89)  206.073 ms  205.948 ms
+11  lhr48s08-in-f4.1e100.net (172.217.169.36)  194.723 ms  194.617 ms

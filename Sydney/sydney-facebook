@@ -1,0 +1,16 @@
+traceroute to www.facebook.com (31.13.73.35), 30 hops max, 60 byte packets
+ 1  te0-3-1-17.32.agr51.syd01.atlas.cogentco.com (206.149.255.1)  0.789 ms  0.868 ms
+ 2  be3578.ccr71.syd01.atlas.cogentco.com (154.54.47.17)  0.844 ms  0.896 ms
+ 3  be3585.ccr51.per01.atlas.cogentco.com (154.54.47.30)  45.750 ms  45.759 ms
+ 4  be2428.ccr31.sin01.atlas.cogentco.com (154.54.88.138)  92.173 ms  92.145 ms
+ 5  be2914.ccr31.mrs02.atlas.cogentco.com (154.54.87.210)  234.744 ms  234.785 ms
+ 6  be2779.ccr41.par01.atlas.cogentco.com (154.54.72.109)  235.812 ms be2780.ccr42.par01.atlas.cogentco.com (154.54.72.225)  243.022 ms
+ 7  be3685.ccr52.lhr01.atlas.cogentco.com (154.54.60.174)  247.795 ms be3684.ccr51.lhr01.atlas.cogentco.com (154.54.60.170)  262.574 ms
+ 8  be2653.rcr21.dub01.atlas.cogentco.com (154.54.62.18)  256.867 ms  256.910 ms
+ 9  be2743.rcr21.dub02.atlas.cogentco.com (154.54.57.142)  263.683 ms  253.874 ms
+10  154.25.16.170 (154.25.16.170)  271.583 ms  271.525 ms
+11  149.14.148.218 (149.14.148.218)  261.955 ms 149.14.149.26 (149.14.149.26)  268.990 ms
+12  po203.asw02.dub4.tfbnw.net (129.134.71.208)  261.253 ms po204.asw01.dub4.tfbnw.net (129.134.71.210)  261.226 ms
+13  po213.psw04.dub4.tfbnw.net (129.134.72.45)  255.844 ms po241.psw01.dub4.tfbnw.net (129.134.71.255)  253.783 ms
+14  157.240.38.223 (157.240.38.223)  263.321 ms 157.240.38.133 (157.240.38.133)  253.675 ms
+15  edge-star-mini-shv-01-dub4.facebook.com (31.13.73.35)  258.740 ms  255.036 ms

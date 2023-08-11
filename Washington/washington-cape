@@ -1,0 +1,31 @@
+traceroute to www.uct.ac.za (137.158.159.192), 30 hops max, 60 byte packets
+ 1  gi0-3-1-19.222.agr21.dca01.atlas.cogentco.com (66.250.250.121)  0.559 ms  0.561 ms
+ 2  be3310.ccr42.dca01.atlas.cogentco.com (154.54.81.217)  1.312 ms  1.300 ms
+ 3  be3083.ccr41.iad02.atlas.cogentco.com (154.54.30.54)  1.566 ms  1.551 ms
+ 4  ae-21.a05.asbnva02.us.bb.gin.ntt.net (129.250.8.121)  1.254 ms  1.246 ms
+ 5  ae-0.r24.asbnva02.us.bb.gin.ntt.net (129.250.3.243)  2.073 ms  1.988 ms
+ 6  ae-1.r23.miamfl02.us.bb.gin.ntt.net (129.250.2.87)  26.422 ms  26.410 ms
+ 7  ae-1.a02.miamfl02.us.bb.gin.ntt.net (129.250.2.108)  26.359 ms  27.785 ms
+ 8  ce-2-0-2.a02.miamfl02.us.ce.gin.ntt.net (129.250.200.114)  27.927 ms  27.923 ms
+ 9  30.8.39.170.ampath.net (170.39.8.30)  28.024 ms  28.014 ms
+10  187-185-103-190.ampath.net (190.103.185.187)  187.148 ms  187.596 ms
+11  et-0-0-1-0-cpt7-pe1.net.tenet.ac.za (155.232.64.70)  186.923 ms  187.528 ms
+12  154.114.124.1 (154.114.124.1)  187.882 ms  186.267 ms
+13  * *
+14  * *
+15  * *
+16  * *
+17  * *
+18  * *
+19  * *
+20  * *
+21  * *
+22  * *
+23  * *
+24  * *
+25  * *
+26  * *
+27  * *
+28  * *
+29  * *
+30  * *

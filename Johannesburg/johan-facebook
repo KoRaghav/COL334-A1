@@ -1,0 +1,10 @@
+traceroute to www.facebook.com (157.240.221.35), 30 hops max, 60 byte packets
+ 1  gi0-0-0-17.20.agr11.jnb01.atlas.cogentco.com (206.185.255.1)  1.188 ms  1.269 ms
+ 2  be2355.ccr51.jnb01.atlas.cogentco.com (154.54.43.37)  0.806 ms  0.766 ms
+ 3  be2385.ccr21.lon01.atlas.cogentco.com (154.54.40.93)  196.072 ms be2389.ccr22.lon01.atlas.cogentco.com (154.54.80.201)  194.244 ms
+ 4  be2185.rcr21.b015534-1.lon01.atlas.cogentco.com (154.54.61.61)  195.746 ms be2186.rcr21.b015534-1.lon01.atlas.cogentco.com (154.54.61.69)  194.004 ms
+ 5  149.14.251.186 (149.14.251.186)  213.379 ms  213.201 ms
+ 6  po151.asw02.lhr6.tfbnw.net (129.134.44.200)  194.381 ms  193.977 ms
+ 7  po217.psw04.lhr8.tfbnw.net (129.134.54.231)  194.958 ms po221.psw03.lhr8.tfbnw.net (129.134.50.145)  193.879 ms
+ 8  157.240.38.247 (157.240.38.247)  193.644 ms 173.252.67.11 (173.252.67.11)  194.380 ms
+ 9  edge-star-mini-shv-01-lhr8.facebook.com (157.240.221.35)  196.431 ms  199.483 ms
